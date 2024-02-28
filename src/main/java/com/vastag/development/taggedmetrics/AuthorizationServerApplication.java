@@ -1,4 +1,4 @@
-package com.vastag.auth.authorizationserver;
+package com.vastag.development.taggedmetrics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

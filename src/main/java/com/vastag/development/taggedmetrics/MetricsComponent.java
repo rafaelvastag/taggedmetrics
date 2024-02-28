@@ -1,4 +1,4 @@
-package com.vastag.auth.authorizationserver;
+package com.vastag.development.taggedmetrics;
 
 import io.micrometer.core.instrument.MeterRegistry;
 import org.springframework.context.annotation.Bean;

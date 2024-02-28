@@ -1,4 +1,4 @@
-package com.vastag.auth.authorizationserver;
+package com.vastag.development.taggedmetrics;
 
 import io.micrometer.core.instrument.ImmutableTag;
 import io.micrometer.core.instrument.MeterRegistry;
